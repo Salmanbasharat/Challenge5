@@ -23,4 +23,5 @@ This is evident from our analysis that though the overall revenue is higher in h
 2- The number of drivers in Rural areas are quite low. We know from the data that there are relatively longer distances in rural areas which means each driver is occupied for a longer time and cant serve potential customers during occupied time hence the firm should think on hiring more drivers in Rural areas to serve more customers.
 
 3- The analysis of weekly data across all type of cities reveal that the pattern of getting business is more or less same across the board hence the management should focus on optimising the number of drivers and ensure that they get maximum rides to increase overall revenue for the firm and for themselves. Weekly data is shown below:
+
 <img src="PyBer_fare_summary.PNG"><img>
